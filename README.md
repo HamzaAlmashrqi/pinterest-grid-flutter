@@ -47,3 +47,20 @@
 <h2>Generate Build</h2>
 
 No secrets, only follow the [Flutter Docs Steps](https://flutter.dev/docs/deployment/android) and everything is okay
+
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="center">
+  Open Source
+</h2>
+<p align="center">
+  <sub>Copyright © 2020-present, Laks Castro.</sub>
+</p>
+<p align="center">This repository <a href="https://github.com/LaksCastro/pinterest-grid-flutter/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">
+  <img src="/assets/pinterest.png" width="35" />
+  <img src="/assets/flutter.png" width="35" />
+</p>
