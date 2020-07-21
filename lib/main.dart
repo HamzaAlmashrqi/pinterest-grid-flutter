@@ -9,10 +9,10 @@ import 'package:http/http.dart' as http;
 
 Future<void> main() async {
   await DotEnv().load('.env');
-  runApp(MyApp());
+  runApp(ImageListApp());
 }
 
-class MyApp extends StatelessWidget {
+class ImageListApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -43,7 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
   // URL TO FETCH IMAGES
   final String url = "https://api.unsplash.com/photos";
 
-  // BREAKPOINTS FOR RESPONSIBILITY
+  // BREAKPOINTS FOR RESPONSIVITY
   final List<double> breakpoints = [1100, 900, 600, 300, 200];
   final List<int> breakpointsValues = [6, 4, 3, 2, 1];
 
