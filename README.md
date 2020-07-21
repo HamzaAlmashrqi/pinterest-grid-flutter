@@ -8,7 +8,7 @@
 
 <h2>Features</h2>
 <ul>
-  <li>Pinterest Grid with Star Staggere Grid View</li>
+  <li>Pinterest Grid with Staggered Grid View</li>
   <li>Responsive, so the Grid Columns is relative to the screen width</li>
   <li>HTTP Requests with Http Dart library</li>
   <li>The HTTP Requests endpoint are the Unplash API to get the images</li>
