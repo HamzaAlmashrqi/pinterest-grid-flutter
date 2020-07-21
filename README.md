@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">Pinterest Grid in Flutter - Image List of Unsplash</h2>
-<p align="center">The Pinterest Grid implemented using Flutter Framework</p>
+<p align="center">Pinterest Grid implemented in Flutter Framework using Staggered Grid View with HTTP Requests to fetch images of Unsplash API</p>
 
 <h2>Features</h2>
 <ul>
