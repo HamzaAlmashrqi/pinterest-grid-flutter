@@ -41,8 +41,9 @@
 #### Steps
 1. Clone repository
 2. Open repository on VSCode
-3. Press F5 to start debug version
-4. Enjoy
+3. Configure enviroment variables
+4. Press F5 to start debug version
+5. Enjoy
 
 <h2>Generate Build</h2>
 
