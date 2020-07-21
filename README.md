@@ -11,10 +11,15 @@
 </ul>
 
 <h2>Printscreens</h2>
-<div>
-  <span><img src="/assets/print3.jpeg" width="350"></span>
-  <span><img src="/assets/print2.jpeg" width="350"></span>
-  <span><img src="/assets/print1.jpeg" width="350"></span>
-</div>
-
-
+<table>
+  <tr>
+    <td><span><img src="/assets/print3.jpeg" width="350"></span></td>
+    <td><span><img src="/assets/print2.jpeg" width="350"></span></td>
+    <td><span><img src="/assets/print1.jpeg" width="350"></span></td>
+  </tr>
+  <tr>
+    <td>Image Grid</td>
+    <td>Loading Indicator on load images</td>
+    <td>Grid on a greater screen</td>
+  </tr>
+</table>
