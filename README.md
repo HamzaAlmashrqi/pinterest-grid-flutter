@@ -1,3 +1,8 @@
+<h2 align="center">
+  <img src="/assets/flutter.png" width="350">  
+  <img src="/assets/pinterest.png" width="350">
+</h2>
+
 <h2 align="center">Pinterest Grid in Flutter - Image List of Unsplash</h2>
 <p align="center">The Pinterest Grid implemented using Flutter Framework</p>
 
