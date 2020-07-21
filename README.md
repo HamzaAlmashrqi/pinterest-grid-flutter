@@ -23,3 +23,18 @@
     <td>Grid on a greater screen</td>
   </tr>
 </table>
+
+<h2>Clone development setup</h2>
+
+> #### Required
+> 1. Flutter Setup configured (Follow the Flutter Docs or search on Google "how to configure Flutter on [Your operational System]")
+
+#### Steps
+1. Clone repository
+2. Open repository on VSCode
+3. Press F5 to start debug version
+4. Enjoy
+
+<h2>Generate Build</h2>
+
+No secrets, only follow the [Flutter Docs Steps](https://flutter.dev/docs/deployment/android) and everything is okay
