@@ -24,6 +24,9 @@
   </tr>
 </table>
 
+<h2>How to install as App (Android)</h2>
+[Download and install the APK files](https://github.com/LaksCastro/pinterest-grid-flutter/releases/tag/1.0.0)
+
 <h2>Clone development setup</h2>
 
 > #### Required
