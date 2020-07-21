@@ -11,6 +11,10 @@
 </ul>
 
 <h2>Printscreens</h2>
-<img src="">
+<div>
+  <span><img src="/assets/print3.jpeg" width="350"></span>
+  <span><img src="/assets/print2.jpeg" width="350"></span>
+  <span><img src="/assets/print1.jpeg" width="350"></span>
+</div>
 
 
