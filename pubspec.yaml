@@ -1,5 +1,5 @@
 name: image_list
-description: A new Flutter project.
+description: Pinterest Grid implemented in Flutter using Staggered Grid View with HTTP Requests to fetch images of Unsplash API.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
